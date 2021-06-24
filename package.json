@@ -1,0 +1,30 @@
+{
+  "name": "MS_Instagram-stories_Volans_Tep_Online_Full-time_2021_1",
+  "version": "1.0.0",
+  "description": "At the end of this milestone you will learn",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Instagram-stories_Volans_Tep_Online_Full-time_2021_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Instagram-stories_Volans_Tep_Online_Full-time_2021_1/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Instagram-stories_Volans_Tep_Online_Full-time_2021_1#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "helmet": "^4.6.0",
+    "mongoose": "^5.12.14",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
